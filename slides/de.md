@@ -653,13 +653,19 @@ footer: ''
 
 </div>
 
-<div class="col25">
+<div class="col35">
 
 ![w:300 center](./imgs/rip_thinklight_meme.jpg)
 
 </div>
 
 </div>
+
+---
+
+<!-- _header: Revival des Classic Keyboards (T25, 2017) -->
+
+![w:1050 center](./imgs/t25_keyboard.jpg)
 
 ---
 
@@ -714,9 +720,15 @@ PC110 als Telefon
 
 </div>
 
+<!-- 
+
+- Nokia hat mit dem N-Gage also eindeutig bei IBM abgeschaut..
+
+-->
+
 ---
 
-<!-- _header: ThinkPad TV-Tuner  -->
+<!-- _header: ThinkPad TV-Tuner (1994/1995)  -->
 <!-- footer: 'Sender-/Eingangauswahl, Konfiguration, an/aus' -->
 
 <div class="container">
@@ -748,7 +760,7 @@ PC110 als Telefon
 
 ---
 
-<!-- _header: ThinkPad TV-Tuner  -->
+<!-- _header: ThinkPad TV-Tuner (1994/1995)  -->
 <!-- footer: '' -->
 
 <div class="container">
