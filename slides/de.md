@@ -1,7 +1,7 @@
 ---
 title: ThinkPads - Geschichte und Trivia (die zweite)
 author: Christian Stankowic
-description: Präsentation über ThinkPads, deren Geschichte und Implikationen auf Nerdkultur
+description: Präsentation über ThinkPads, insbesondere Eingabegeräte und kuriose Sondermodelle
 keywords: Marp, Presentation, ThinkPad, IBM, Lenovo
 marp: true
 paginate: true
@@ -505,7 +505,7 @@ footer: ''
 
 - Tastatur des **701**, welches ursprünglich **Butterfly** heißen sollte*
 - ca. **24.7 cm** breite Tastatur, schiebt sich auf **29,3 cm** aus
-  - in etwa so breit wie die Tastatur eines T60, beachtliche komfortabel
+  - in etwa so breit wie die Tastatur eines T60, beachtlich komfortabel
   - Tastatur klappt sich **diagonal** aus
 - Produktion des Geräts **verzögerte** sich mehrfach
   - u.a. aufgrund der Tastatur
@@ -1068,7 +1068,7 @@ footer: '[[25]](https://thinkwiki.de/550)'
 
 <!-- _header: ThinkPad 235 / Ricoh Magio* (1998)  -->
 <!--
-footer: '[[27]](https://www.youtube.com/watch?v=RDyMw7t9bdw), auch: Hitachi VisionBook Traveler, Epson Endeavor TK-300/400, Hitachi Flora Prius Note 210'
+footer: '[[27]](https://www.youtube.com/watch?v=RDyMw7t9bdw), aka: Hitachi VisionBook Traveler, Epson Endeavor TK-300/400, Hitachi Flora Prius Note 210'
 -->
 
 ![w:1200 center](./imgs/tp235.jpg)
@@ -1077,7 +1077,7 @@ footer: '[[27]](https://www.youtube.com/watch?v=RDyMw7t9bdw), auch: Hitachi Visi
 
 <!-- _header: ThinkPad 235 / Ricoh Magio* (1998) -->
 <!--
-footer: '[[28]](https://thinkwiki.de/235), auch: Hitachi VisionBook Traveler, Epson Endeavor TK-300/400, Hitachi Flora Prius Note 210'
+footer: '[[28]](https://thinkwiki.de/235), aka: Hitachi VisionBook Traveler, Epson Endeavor TK-300/400, Hitachi Flora Prius Note 210'
 -->
 
 <div class="container">
@@ -1116,7 +1116,7 @@ Tastatur des 235
 
 <!-- _header: ThinkPad 235 / Ricoh Magio* (1998) -->
 <!--
-footer: '[[27]](https://www.youtube.com/watch?v=RDyMw7t9bdw), auch: Hitachi VisionBook Traveler, Epson Endeavor TK-300/400, Hitachi Flora Prius Note 210'
+footer: '[[27]](https://www.youtube.com/watch?v=RDyMw7t9bdw), aka: Hitachi VisionBook Traveler, Epson Endeavor TK-300/400, Hitachi Flora Prius Note 210'
 -->
 
 <div class="container">
