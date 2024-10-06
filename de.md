@@ -1,7 +1,7 @@
 ---
 title: ThinkPads - Geschichte und Trivia (die zweite)
 author: Christian Stankowic
-description: Präsentation über ThinkPads, deren Geschichte und Implikationen auf Nerdkultur
+description: Präsentation über ThinkPads, insbesondere Eingabegeräte und kuriose Sondermodelle
 keywords: Marp, Presentation, ThinkPad, IBM, Lenovo
 marp: true
 paginate: true
@@ -230,7 +230,7 @@ Lenovo ThinkPad T470p (2017)
 
 <!--
 _header: Richard Sapper (1932 - 2015†)
-footer: ''
+footer: '[[1]](https://en.wikipedia.org/wiki/Richard_Sapper)'
 -->
 
 <div class="container">
@@ -260,12 +260,13 @@ footer: ''
 ---
 
 <!-- _header: Richard Sapper -->
+<!-- footer: '[[2]](https://commons.wikimedia.org/wiki/File:Lampe_Tizio_von_Richard_Sapper.jpg), [[3]](https://richardsapperdesign.com/products/mod-5140/)' -->
 
 <div class="container">
 
 <div class="col">
 
-![w:500 center](./imgs/artemide_tizio.jpg)
+![w:450 center](./imgs/artemide_tizio.jpg)
 
 Artemide Tizio
 
@@ -291,14 +292,14 @@ IBM PC Convertible Model 5140
 ---
 
 <!-- _header: IBM PC Convertible Model 5140 (1986) -->
+<!-- footer: '[[3]](https://richardsapperdesign.com/products/mod-5140/)' -->
 
 ![bg](./imgs/mod-5140-5.jpg)
 
 ---
 
 <!--
-footer: Quelle: [Reddit](https://www.reddit.com/r/thinkpad/comments/h16v1f/tizio_and_thinkpad_the_perfect_classical/#lightbox)
--->
+footer: '[[4]](https://www.reddit.com/r/thinkpad/comments/h16v1f/tizio_and_thinkpad_the_perfect_classical)' -->
 
 ![bg](./imgs/tizio_thinkpad.jpg)
 
@@ -341,20 +342,21 @@ footer: ''
 ---
 
 <!-- _header: Memetische Relevanz -->
-<!-- footer: Quelle: [Reddit](https://www.reddit.com/r/thinkpad/comments/112wxih/custom_boot_screen_on_my_p1_gen4/) -->
+<!-- footer: '[[5]](https://www.reddit.com/r/thinkpad/comments/112wxih/custom_boot_screen_on_my_p1_gen4/)' -->
 
 ![bg](./imgs/lenowo_hack.jpg)
 
 ---
 
 <!-- _header: ThinkPad T61 in Knives Out (2019) -->
-<!-- footer: '' -->
+<!-- footer: '[[6]](https://productplacementblog.com/movies/lenovo-thinkpad-t61-laptop-used-by-christopher-plummer-as-harlan-thrombey-in-knives-out-2019/)' -->
 
 ![bg](./imgs/knives_out.jpg)
 
 ---
 
 <!-- _header: Ready? -->
+<!-- footer: '' -->
 
 <div class="container">
 
@@ -375,7 +377,7 @@ footer: ''
 ---
 
 <!-- _header: Kurzgeschichte des TrackPoints -->
-<!-- footer: 'Patent lief **2007** aus, auch andere Hersteller hatten vorher bereits Alternativen' -->
+<!-- footer: '[[7]](https://youtu.be/Wpw7Bml_XvI), Patent lief **2007** aus, auch andere Hersteller hatten vorher bereits Alternativen' -->
 
 <div class="container">
 
@@ -403,7 +405,7 @@ footer: ''
 ---
 
 <!-- _header: Kurzgeschichte des TrackPoints -->
-<!-- footer: 'Patent lief **2007** aus, auch andere Hersteller hatten vorher bereits Alternativen' -->
+<!-- footer: '[[8]](https://de.wikipedia.org/wiki/Datei:Pointing_stick_of_a_Lenovo_ThinkPad_keyboard-4488.jpg), Patent lief **2007** aus, auch andere Hersteller hatten vorher bereits Alternativen' -->
 
 <div class="container">
 
@@ -427,7 +429,7 @@ footer: ''
 ---
 
 <!-- _header: Trivia: Unterschiedliche TrackPoint-Typen -->
-<!-- footer: Quelle: [Reddit](https://www.reddit.com/r/thinkpad/comments/h16v1f/tizio_and_thinkpad_the_perfect_classical/#lightbox) -->
+<!-- footer: '[[9]](https://www.reddit.com/r/thinkpad/comments/h16v1f/tizio_and_thinkpad_the_perfect_classical)' -->
 
 ![w:1150 center](./imgs/trackpoints.jpg)
 
@@ -472,6 +474,7 @@ footer: ''
 ---
 
 <!-- _header: Tastaturen -->
+<!-- footer: '[[10]](https://deskthority.net/wiki/Scissor_switch)' -->
 
 <div class="container">
 
@@ -502,7 +505,7 @@ footer: ''
 
 - Tastatur des **701**, welches ursprünglich **Butterfly** heißen sollte*
 - ca. **24.7 cm** breite Tastatur, schiebt sich auf **29,3 cm** aus
-  - in etwa so breit wie die Tastatur eines T60, beachtliche komfortabel
+  - in etwa so breit wie die Tastatur eines T60, beachtlich komfortabel
   - Tastatur klappt sich **diagonal** aus
 - Produktion des Geräts **verzögerte** sich mehrfach
   - u.a. aufgrund der Tastatur
@@ -514,7 +517,7 @@ footer: ''
 ---
 
 <!-- _header: TrackWrite-Keyboard (1995 - 1996) -->
-<!-- footer: '' -->
+<!-- footer: '[[11]](https://en.wikipedia.org/wiki/File:IBM_ThinkPad_701C_keyboard.jpg), [[12]](https://youtu.be/rDjg4dKWQ2Y)' -->
 
 <div class="container">
 
@@ -535,6 +538,7 @@ footer: ''
 ---
 
 <!-- _header: OG-Tastatur (hier: 760EL, 1996) -->
+<!-- footer: '' -->
 
 - 7-reihiges Design, bei kleinen Geräten nur 6 Reihen (z.B. 240)
 - keine Sondertasten oder LEDs, vom 700 (1992) bis zum 600X (2000)
@@ -601,6 +605,7 @@ footer: ''
 ---
 
 <!-- _header: Precision-Keyboard -->
+<!-- footer: '[[13]](https://nuts.com/images/auto/801x534/assets/869ed4decfec61cb.jpg)' -->
 
 <div class="container">
 
@@ -630,6 +635,7 @@ footer: ''
 ---
 
 <!-- _header: Precision-Keyboard (X230, 2012) -->
+<!-- footer: '' -->
 
 ![w:1200 center](./imgs/t430_keyboard.jpg)
 
@@ -670,7 +676,7 @@ footer: ''
 ---
 
 <!-- _header: IBM Palm Top PC110 (1995) -->
-<!-- footer: 'Intel 80486 @ 33 MHz, 4 bis 20 MB RAM' -->
+<!-- footer: '[[14]](https://en.wikipedia.org/wiki/IBM_Palm_Top_PC_110), Intel 80486 @ 33 MHz, 4 bis 20 MB RAM' -->
 
 <div class="container">
 
@@ -698,7 +704,7 @@ footer: ''
 ---
 
 <!-- _header: IBM Palm Top PC110 (1995) -->
-<!-- footer: '' -->
+<!-- footer: '[[14]](https://en.wikipedia.org/wiki/IBM_Palm_Top_PC_110), [[15]](https://www.youtube.com/watch?v=D-v6kyEDCNo)' -->
 
 <div class="container">
 
@@ -729,7 +735,7 @@ PC110 als Telefon
 ---
 
 <!-- _header: ThinkPad TV-Tuner (1994/1995)  -->
-<!-- footer: 'Sender-/Eingangauswahl, Konfiguration, an/aus' -->
+<!-- footer: '[[16]](https://forum.thinkpads.com/viewtopic.php?t=134090), Sender-/Eingangauswahl, Konfiguration, an/aus' -->
 
 <div class="container">
 
@@ -761,7 +767,7 @@ PC110 als Telefon
 ---
 
 <!-- _header: ThinkPad TV-Tuner (1994/1995)  -->
-<!-- footer: '' -->
+<!-- footer: '[[16]](https://forum.thinkpads.com/viewtopic.php?t=134090), [[17]](https://www.youtube.com/watch?v=Kp2RMttq7l0)' -->
 
 <div class="container">
 
@@ -787,6 +793,7 @@ TV-Bild mit integrierter Kanal-Anzeige
 ---
 
 <!-- _header: ThinkPad 360P/PE Tablet (1994 - 1996)  -->
+<!-- footer: '[[18]](https://commons.wikimedia.org/wiki/Category:ThinkPad_360PE)' -->
 
 <div class="container">
 
@@ -821,7 +828,7 @@ TV-Bild mit integrierter Kanal-Anzeige
 
 ![w:570 center](./imgs/ThinkPad_360PE_mid_fold.jpg)
 
-Bildschirm wird im Rahmen gedreht
+Bildschirm im Rahmen gedreht
 
 </div>
 
@@ -838,6 +845,7 @@ Tablet-Modus
 ---
 
 <!-- _header: Exkurs: Windows for Pencomputer 1.0 (1992) -->
+<!-- footer: '[[19]](https://winhistory.de/more/win31.htm#pen)' -->
 
 <div class="container">
 
@@ -863,7 +871,7 @@ Eingabe in Systemdialogen
 
 <!-- _header: IBM TransNote (2001 - 2003)  -->
 <!--
-footer: Intel Pentium 3 Mobile, 600 MHz, 64-320 MB SDRAM, 10.4"-Touchscreen, 10-20 GB HDD
+footer: '[[20]](https://thinkwiki.de/Transnote), Intel Pentium 3 Mobile, 600 MHz, 64-320 MB SDRAM, 10.4"-Touchscreen, 10-20 GB HDD'
 -->
 
 <div class="container">
@@ -892,7 +900,8 @@ footer: Intel Pentium 3 Mobile, 600 MHz, 64-320 MB SDRAM, 10.4"-Touchscreen, 10-
 
 <!-- _header: IBM TransNote (2001 - 2003)  -->
 <!--
-footer: 'zwischen 1998 und 2001 produziert'
+footer: '[[21]](https://pc.watch.impress.co.jp/docs/article/990204/crosspad.htm)
+, zwischen 1998 und 2001 produziert'
 -->
 
 <div class="container">
@@ -937,7 +946,7 @@ CrossPad XP und CrossPad
 
 <!-- _header: IBM TransNote (2001 - 2003)  -->
 <!--
-footer: ''
+footer: '[[22]](https://www.reddit.com/r/thinkpad/comments/1q0g9z/any_love_for_a_factory_lefthanded_thinkpad/), [[23]](http://www.ibmfiles.com/pages/transnote.htm)'
 -->
 
 <div class="container">
@@ -964,7 +973,7 @@ Verschiedene Display-Positionen
 
 <!-- _header: ThinkPad Tablet (2011 - 2012)  -->
 <!--
-footer: NVIDIA Tegra 2, 1 GB RAM, 10.1"-TFT (1280x800), 32 GB Flash
+footer: '[[24]](https://thinkwiki.de/ThinkPad_Tablet), NVIDIA Tegra 2, 1 GB RAM, 10.1"-TFT (1280x800)'
 -->
 
 <div class="container">
@@ -993,7 +1002,7 @@ footer: NVIDIA Tegra 2, 1 GB RAM, 10.1"-TFT (1280x800), 32 GB Flash
 
 <!-- _header: Japanische Exclusives  -->
 <!--
-footer: ''
+footer: '[[25]](https://thinkwiki.de/550)'
 -->
 
 <div class="container">
@@ -1023,7 +1032,7 @@ footer: ''
 ---
 
 <!-- _header: ThinkPad 220 (1993) -->
-<!-- footer: '226x166x32mm bei 1 kg Gewicht' -->
+<!-- footer: '[[26]](https://commons.wikimedia.org/wiki/Category:ThinkPad_220), 226x166x32mm bei 1 kg Gewicht' -->
 
 <div class="container">
 
@@ -1051,7 +1060,7 @@ footer: ''
 ---
 
 <!-- _header: ThinkPad 220 (1993) -->
-<!-- footer: '' -->
+<!-- footer: '[[26]](https://commons.wikimedia.org/wiki/Category:ThinkPad_220)' -->
 
 ![w:1000 center](./imgs/NEC_PC-9801_and_ThinkPad_220.jpg)
 
@@ -1059,7 +1068,7 @@ footer: ''
 
 <!-- _header: ThinkPad 235 / Ricoh Magio* (1998)  -->
 <!--
-footer: 'auch: Hitachi VisionBook Traveler, Epson Endeavor TK-300/400, Hitachi Flora Prius Note 210'
+footer: '[[27]](https://www.youtube.com/watch?v=RDyMw7t9bdw), aka: Hitachi VisionBook Traveler, Epson Endeavor TK-300/400, Hitachi Flora Prius Note 210'
 -->
 
 ![w:1200 center](./imgs/tp235.jpg)
@@ -1068,7 +1077,7 @@ footer: 'auch: Hitachi VisionBook Traveler, Epson Endeavor TK-300/400, Hitachi F
 
 <!-- _header: ThinkPad 235 / Ricoh Magio* (1998) -->
 <!--
-footer: 'auch: Hitachi VisionBook Traveler, Epson Endeavor TK-300/400, Hitachi Flora Prius Note 210'
+footer: '[[28]](https://thinkwiki.de/235), aka: Hitachi VisionBook Traveler, Epson Endeavor TK-300/400, Hitachi Flora Prius Note 210'
 -->
 
 <div class="container">
@@ -1107,7 +1116,7 @@ Tastatur des 235
 
 <!-- _header: ThinkPad 235 / Ricoh Magio* (1998) -->
 <!--
-footer: 'auch: Hitachi VisionBook Traveler, Epson Endeavor TK-300/400, Hitachi Flora Prius Note 210'
+footer: '[[27]](https://www.youtube.com/watch?v=RDyMw7t9bdw), aka: Hitachi VisionBook Traveler, Epson Endeavor TK-300/400, Hitachi Flora Prius Note 210'
 -->
 
 <div class="container">
@@ -1141,7 +1150,7 @@ Das 235 hat sogar USB 1.1, Fremdmarken nicht
 ---
 
 <!-- _header: ThinkPad S30 / S31 (2001) -->
-<!-- footer: 'Intel Pentium 3 @ 600 MHz, 128-256 MB RAM, 20 GB HDD' -->
+<!-- footer: '[[28]](https://thinkwiki.de/S30_/_S31), Intel Pentium 3 @ 600 MHz, 128-256 MB RAM, 20 GB HDD' -->
 
 <div class="container">
 
@@ -1175,7 +1184,7 @@ Das 235 hat sogar USB 1.1, Fremdmarken nicht
 ---
 
 <!-- _header: ThinkPad S30 / S31 (2001) -->
-<!-- footer: '' -->
+<!-- footer: '[[28]](https://thinkwiki.de/S30_/_S31)' -->
 
 <div class="container">
 
@@ -1199,7 +1208,7 @@ Matter Displaydeckel, Fuß im Akku jedoch immer glänzend
 
 ---
 
-<!-- footer: Quelle: [Lenovo](https://www.thinkpad.com/device/ThinkPad-T14p-2023) -->
+<!-- footer: [[29]](https://www.thinkpad.com/device/ThinkPad-T14p-2023) -->
 
 ![bg](./imgs/t14p.jpg)
 
@@ -1285,9 +1294,12 @@ Zu diesen Themen gibt es passende **Bücher**:
 - [Richard Sapper](https://en.wikipedia.org/wiki/Richard_Sapper)
 - [Artemide Tizio](https://commons.wikimedia.org/wiki/File:Lampe_Tizio_von_Richard_Sapper.jpg)
 - [IBM Model 5140](https://richardsapperdesign.com/products/mod-5140/)
+- [Tizio und T430](https://www.reddit.com/r/thinkpad/comments/h16v1f/tizio_and_thinkpad_the_perfect_classical)
+- [Lenowo BIOS-Logo](https://www.reddit.com/r/thinkpad/comments/112wxih/custom_boot_screen_on_my_p1_gen4/)
 - [Knives Out](https://productplacementblog.com/movies/lenovo-thinkpad-t61-laptop-used-by-christopher-plummer-as-harlan-thrombey-in-knives-out-2019/)
 - [Ted Selker](https://youtu.be/Wpw7Bml_XvI)
 - [TrackPoint PCB](https://de.wikipedia.org/wiki/Datei:Pointing_stick_of_a_Lenovo_ThinkPad_keyboard-4488.jpg)
+- [TrackPoint-Typen](https://www.reddit.com/r/thinkpad/comments/h16v1f/tizio_and_thinkpad_the_perfect_classical)
 - [Scissor Switch](https://deskthority.net/wiki/Scissor_switch)
 - [TrackWrite Keyboard](https://en.wikipedia.org/wiki/File:IBM_ThinkPad_701C_keyboard.jpg)
 - [George Karidis](https://youtu.be/rDjg4dKWQ2Y)
@@ -1295,24 +1307,25 @@ Zu diesen Themen gibt es passende **Bücher**:
 - [IBM PC110](https://en.wikipedia.org/wiki/IBM_Palm_Top_PC_110)
 - [IBM PC110 Phone](https://www.youtube.com/watch?v=D-v6kyEDCNo)
 - [ThinkPad 750 TV Tuner Pack](https://forum.thinkpads.com/viewtopic.php?t=134090)
-- [ThinkPad 750 TV Tuner Demo](https://www.youtube.com/watch?v=Kp2RMttq7l0)
 
 </div>
 
 <div class="col">
 
+- [ThinkPad 750 TV Tuner Demo](https://www.youtube.com/watch?v=Kp2RMttq7l0)
 - [360PE](https://commons.wikimedia.org/wiki/Category:ThinkPad_360PE)
 - [Windows for Pencomputer 1.0](https://winhistory.de/more/win31.htm#pen)
-- [CrossPad XP](https://pc.watch.impress.co.jp/docs/article/990204/crosspad.htm)
 - [IBM TransNote](https://thinkwiki.de/Transnote)
+- [CrossPad XP](https://pc.watch.impress.co.jp/docs/article/990204/crosspad.htm)
 - [TransNote Left-handed](https://www.reddit.com/r/thinkpad/comments/1q0g9z/any_love_for_a_factory_lefthanded_thinkpad/)
 - [TransNote Stages](http://www.ibmfiles.com/pages/transnote.htm)
 - [ThinkPad Tablet](https://thinkwiki.de/ThinkPad_Tablet)
 - [550BJ](https://thinkwiki.de/550)
 - [220](https://commons.wikimedia.org/wiki/Category:ThinkPad_220)
-- [235](https://thinkwiki.de/235)
 - [235 vs. Ricoh Magio](https://www.youtube.com/watch?v=RDyMw7t9bdw)
+- [235](https://thinkwiki.de/235)
 - [S30 / S31](https://thinkwiki.de/S30_/_S31)
+- [T14p](https://www.thinkpad.com/device/ThinkPad-T14p-2023)
 
 </div>
 
