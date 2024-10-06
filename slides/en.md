@@ -1,5 +1,5 @@
 ---
-title: ThinkPads - History and trivia (second part)
+title: ThinkPads - Input devices and curiosities (Part Two)
 author: Christian Stankowic
 description: Presentation about ThinkPads, especially input devices and curious special models
 keywords: Marp, Presentation, ThinkPad, IBM, Lenovo
