@@ -8,3 +8,4 @@ Theme based on [marp-theme-academic](https://github.com/kaisugi/marp-theme-acade
 | - | - | - |
 | HTML | [[klick!]](https://stdevel.github.io/mrmcd2024-thinkpads/de.html) | [[click!]](https://stdevel.github.io/mrmcd2024-thinkpads/en.html)
 | PDF | [[klick!]](https://stdevel.github.io/mrmcd2024-thinkpads/de.pdf) | [[click!]](https://stdevel.github.io/mrmcd2024-thinkpads/en.pdf)
+| Video | [[klick!]](https://media.ccc.de/v/2024-339-thinkpads-geschichte-und-trivia) | - |
