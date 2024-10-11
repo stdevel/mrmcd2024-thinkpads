@@ -30,7 +30,7 @@ theme: think
 
 # 🔴 ThinkPads
 
-#### Geschichte und Trivia (die zweite)
+#### Eingabegeräte und Kuriositäten (Teil 2)
 
 <br>
 
